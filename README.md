@@ -1,2 +1,2 @@
-# data-analysis-r
-Repo for Data Analysis projects completed in R
+# data-analysis
+Repo for Data Analysis projects completed
